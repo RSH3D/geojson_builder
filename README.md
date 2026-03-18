@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/1185049145.svg)](https://doi.org/10.5281/zenodo.19084904)
 # GeoJSON Builder with CSV
 #### Video Demo:  [CSV to GeoJSON/youtube](https://youtu.be/ZnZ2uGAWjEw?si=3T3ovqKYPC9ZGijX)
 #### Description:
